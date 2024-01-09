@@ -3,7 +3,7 @@ Hi! My name is Prashant Tomar
 
 🌍 I am a Front-End Developer.
 <br/>
-* 🖥️  See my Portfolio website at [BytePrashant](http://prashant-portfolio-umber.vercel.app/)
+* 🖥️  Look at my Portfolio website [here.](http://prashant-portfolio-umber.vercel.app/)
 * ✉️  You can contact me at [pt092000@gmail.com](mailto:pt092000@gmail.com)
 
 ### Working with 👇🏼
