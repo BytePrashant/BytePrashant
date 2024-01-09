@@ -1,7 +1,7 @@
 Hi! My name is Prashant Tomar
 ========================================================================================================================================
 
-🌍 I am a Front-End Developer.
+🌍 I am a Full-stack Developer.
 <br/>
 * 🖥️  Look at my Portfolio website [here.](http://prashant-portfolio-umber.vercel.app/)
 * ✉️  You can contact me at [pt092000@gmail.com](mailto:pt092000@gmail.com)
